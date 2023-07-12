@@ -1,1 +1,1 @@
-Link Website Arya Snack : <link> arya-snack.domcloud.io </link>
+Website Arya Snack link : [Arya-Snack](arya-snack.domcloud.io)
