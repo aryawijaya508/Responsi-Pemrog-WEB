@@ -160,7 +160,7 @@ const props = defineProps({
         <p v-if="about && about.konten" class="pt-6 font-body leading-relaxed text-grey-20">{{ about.konten }}</p>
         <div class="flex flex-col justify-center pt-6 sm:flex-row lg:justify-start">
           <div class="flex items-center justify-center sm:justify-start">
-            <a href="https://www.instagram.com/mujiyantosvc/" class="font-body text-lg font-semibold text-grey-20"> I am Aryawijaya, student from Amikom Yogyakarta </a>
+            <a href="#" class="font-body text-lg font-semibold text-grey-20"> I am Aryawijaya, student from Amikom Yogyakarta </a>
             <div class="hidden sm:block">
               <i class="bx bx-chevron-right text-2xl text-primary"></i>
             </div>
